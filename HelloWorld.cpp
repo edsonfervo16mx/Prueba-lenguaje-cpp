@@ -10,6 +10,6 @@ main (){
 	scanf("%d",&c);
 	
 	printf("El primer numero es: %d \n",a);
-	printf("El primer segundo es: %d \n",b);
-	printf("El primer tercer es: %d \n",c);
+	printf("El segundo numero es: %d \n",b);
+	printf("El tercer numero es: %d \n",c);
 }
